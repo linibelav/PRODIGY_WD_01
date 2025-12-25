@@ -5,8 +5,8 @@ This project is my **first task** as part of a **Web Development internship**. T
 ---
 
 ## 🚀 Live Demo
-🔗 https://lini-dev.github.io/responsive-landing-page/
-
+🔗[ https://lini-dev.github.io/responsive-landing-page/
+](https://linibelav.github.io/PRODIGY_WD_01/)
 ---
 
 ## 📌 Task Description
